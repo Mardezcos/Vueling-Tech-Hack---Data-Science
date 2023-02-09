@@ -1,8 +1,7 @@
-# Vueling-Tech-Hack---Data-Science
-Vueling Tech Hack - Data-Science.
-Este proyecto está construido dentro del marco de las competiciones de Nuwe, organizada por la compañía aérea Vueling y la IT Academy, en el apartado de Ciencia de Datos.
-https://nuwe.io/dev/competitions/vueling-tech-hack/dashboard-datascience-challenge
-El reto de este hackaton consiste en obtener la mejor métrica F1 macro sobre un conjunto de datos que recoge un histórico de rutas de la compañía.
+## Vueling Tech Hack - Data-Science.  
+Este proyecto está construido dentro del marco de las competiciones de Nuwe, organizada por la compañía aérea Vueling y la IT Academy, en el apartado de Ciencia de Datos.  
+https://nuwe.io/dev/competitions/vueling-tech-hack/dashboard-datascience-challenge  
+El reto de este hackaton consiste en obtener la mejor métrica F1 macro sobre un conjunto de datos que recoge un histórico de rutas de la compañía.  
 Para desarrollar este algoritmo hemos usado las siguientes librerías:
 -----
 matplotlib          3.5.1
